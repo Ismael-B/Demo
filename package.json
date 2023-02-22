@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cypress": "^12.5.1"
+  },
+
+  "scripts": {
+    "cy:rec": "npx cypress run --record --key d6a153da-fd68-4554-94fa-a634518b81de"
+  }
+}
